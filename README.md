@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Natalí Porto
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Software Engineering
-- 📫 How to reach me nataliporto@gmail.com
+- 📫 How to reach me natalimporto@gmail.com
